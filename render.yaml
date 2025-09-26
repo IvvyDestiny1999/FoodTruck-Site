@@ -1,0 +1,11 @@
+# render.yaml - optional config for Render (web service)
+# This file creates a Node web service that runs `npm start`.
+services:
+  - type: web
+    name: foodtruck-site
+    env: node
+    plan: free
+    buildCommand: 'npm install'
+    startCommand: 'npm start'
+    autoDeploy: true
+    instanceType: shared
