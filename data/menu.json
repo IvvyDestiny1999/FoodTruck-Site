@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Lanches",
+    "name": "Cheeseburger da Nascente",
+    "description": "Pão artesanal, carne 150g, queijo cheddar e molho especial",
+    "price": 18.0,
+    "image": "assets/dish1.png"
+  },
+  {
+    "id": 2,
+    "category": "Bebidas",
+    "name": "Suco de Laranja",
+    "description": "Natural, feito na hora",
+    "price": 6.5,
+    "image": "assets/dish2.png"
+  },
+  {
+    "id": 3,
+    "category": "Sobremesas",
+    "name": "Brownie caseiro",
+    "description": "Brownie de chocolate com textura densa",
+    "price": 8.0,
+    "image": "assets/dish3.png"
+  }
+]
