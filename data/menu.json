@@ -2,11 +2,35 @@
   {
     "id": 1,
     "category": "Lanches",
-    "name": "Cheeseburger da Nascente",
+    "name": "Pastel da Nascente",
+    "description": "Opções: Carne, Pizza, Frango",
+    "price": 9.0,
+    "image": "assets/dish4.jpg"
+  },
+  
+    {
+    "id": 4,
+    "category": "Lanches",
+    "name": "Pao com Bolinho da Nascente",
+    "description": "Pão, carne 150g, queijo e molho especial",
+    "price": 18.0,
+    "image": "assets/dish1.jpg"
+  },
+  
+  
+      {
+    "id": 5,
+    "category": "Lanches",
+    "name": "Pao com Bolinho da Nascente",
     "description": "Pão artesanal, carne 150g, queijo cheddar e molho especial",
     "price": 18.0,
-    "image": "assets/dish1.png"
+    "image": "assets/dish1.jpg"
   },
+  
+  
+  
+  
+  
   {
     "id": 2,
     "category": "Bebidas",
